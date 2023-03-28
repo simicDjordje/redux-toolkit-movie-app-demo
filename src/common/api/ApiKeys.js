@@ -1,0 +1,1 @@
+export const OMDb_API_key = 'dbe1fb05'
